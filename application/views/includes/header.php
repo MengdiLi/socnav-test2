@@ -62,7 +62,7 @@
   <div class="container top-bar home-border">
     <div class="attached">
       <div class="name" onclick="void(0);">
-        <span><a href="#">Ticke</a> <a href="#" class="toggle-nav"></a></span>
+        <span><a href="#">Soc Nav </a> <a href="#" class="toggle-nav"></a></span>
                 </div>
 
                 <ul class="right">  
